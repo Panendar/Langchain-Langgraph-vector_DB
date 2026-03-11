@@ -1,0 +1,126 @@
+Internal Employee Handbook
+PanTech Solutions Private Limited
+Internal Policy and Operations Guide
+Version 3.2 – January 2026
+
+
+Introduction
+
+PanTech Solutions Private Limited is a technology organization focused on building enterprise software systems, artificial intelligence solutions, and scalable cloud infrastructure for global clients. Since its founding in 2018, the company has grown into a multidisciplinary engineering organization with teams working across software engineering, artificial intelligence research, data infrastructure, product development, and enterprise consulting.
+As the organization expanded, it became necessary to establish clear operational policies that guide employee conduct, workplace expectations, benefits, and internal procedures. This document serves as the official internal handbook for employees of PanTech Solutions and is intended to provide clarity regarding company policies, workplace responsibilities, employee entitlements, and operational protocols.
+Every employee joining PanTech Solutions is expected to read and understand the policies described in this handbook within the first thirty days of employment. The policies outlined here apply to full-time employees, contractual employees, interns, consultants, and any other personnel engaged in company operations.
+The purpose of this handbook is not only to define rules but also to establish a transparent environment where employees understand how the company functions and what resources are available to support them. Policies regarding work hours, leave management, remote work, internal tools, expense reimbursement, performance reviews, promotions, security procedures, and resignation protocols are described in detail throughout this document.
+The company reserves the right to update or revise policies when operational or legal requirements change. Employees will be notified of such updates through official internal communication channels.
+
+
+Organizational Structure
+
+PanTech Solutions operates through a collaborative structure that brings together multiple departments responsible for different aspects of the organization’s operations. Each department is led by a department head who reports to the executive leadership team.
+The Engineering Department forms the largest part of the organization and is responsible for building and maintaining software systems used by enterprise clients. Engineering teams work on backend systems, frontend applications, cloud infrastructure, and platform engineering. In addition to traditional software engineering teams, the company maintains a specialized Artificial Intelligence Engineering unit that focuses on machine learning systems, large language model integration, and internal knowledge platforms.
+Another major division within the organization is the Data and AI department. This group focuses on building data pipelines, maintaining data infrastructure, managing vector databases, and designing retrieval-augmented generation systems used in enterprise knowledge applications. The Data and AI team collaborates closely with the engineering department when building AI-powered features in company products.
+The Product Department plays a crucial role in defining product strategy and roadmap planning. Product managers in this department work closely with design teams, engineering teams, and customer success teams to identify market needs and prioritize feature development.
+The Human Resources and People Operations team manages employee lifecycle processes including recruitment, onboarding, employee engagement programs, benefits administration, and workplace conflict resolution.
+Finally, the Finance Department oversees payroll processing, expense reimbursements, tax documentation, and budgeting for internal operations.
+
+
+Working Hours and Workplace Expectations
+
+Employees at PanTech Solutions are expected to follow a structured but flexible work schedule that enables collaboration across teams while also allowing individual productivity. The standard workday begins at 9:30 in the morning and concludes at 6:30 in the evening, with employees working approximately eight productive hours excluding lunch and short breaks.
+While the company maintains this standard schedule, employees are given some flexibility in their work timing. The organization has defined a core collaboration window between 11:00 AM and 4:00 PM during which employees are expected to be available for meetings, project discussions, and team coordination.
+Employees working in distributed teams may sometimes collaborate with colleagues located in different time zones. In such situations, managers may adjust meeting schedules to accommodate cross-regional communication.
+Attendance tracking is handled through the internal employee management system known as PanTrack. Employees are expected to mark their check-in and check-out times using this system. Occasional delays due to unforeseen circumstances are understandable, but repeated late arrivals may trigger a discussion with the reporting manager to identify potential issues affecting productivity.
+PanTech emphasizes outcome-based productivity rather than strict time monitoring. However, responsible use of working hours is expected from every employee.
+
+
+Leave Management and Employee Time Off
+
+To ensure work-life balance and support employee wellbeing, PanTech Solutions provides a structured leave system that allows employees to take time off for personal needs, health recovery, family commitments, and emergencies. 
+Full-time employees receive twenty-four days of paid annual leave every calendar year. These leaves accumulate gradually at a rate of two days per month and can be used for personal travel, family time, or general rest. Employees are encouraged to plan annual leave in advance whenever possible so that teams can coordinate workload distribution. 
+Unused annual leave may be carried forward to the following year, but the company limits the carry-forward balance to a maximum of ten days. Any remaining leave beyond that threshold expires at the end of March each year. 
+In addition to annual leave, employees are granted six casual leave days per year. Casual leave is designed for short-term personal matters that require immediate attention, such as family events or urgent commitments. Casual leave typically cannot be used for extended periods and generally should not exceed two consecutive days. 
+Health-related absences fall under the sick leave category. Employees receive ten sick leave days per year that may be used when they are ill or undergoing medical treatment. When an employee takes sick leave for more than three consecutive days, the Human Resources department may request a medical certificate to ensure appropriate documentation. 
+Employees occasionally face unexpected personal crises that require immediate time away from work. For such situations, the company provides emergency leave, which may be granted after reviewing the circumstances with the employee’s reporting manager and the HR team. 
+PanTech also provides maternity leave for female employees who meet the eligibility criteria of at least twelve months of employment with the company. Eligible employees may take up to twenty-six weeks of paid maternity leave. Male employees are also eligible for paternity leave, which allows them to take ten days of leave following the birth of their child.
+
+
+Remote Work and Hybrid Work Policy
+
+PanTech Solutions recognizes that modern technology allows employees to work effectively from locations outside the office. As a result, the company supports a hybrid work model that allows employees to work remotely for part of the week while maintaining periodic in-office collaboration.
+Under the hybrid policy, employees may work remotely for up to three days per week provided that their role allows remote productivity and their manager approves the arrangement. Employees working remotely must ensure that they have reliable internet connectivity and a quiet environment suitable for professional communication.
+Even when working remotely, employees must remain accessible during the company’s core collaboration hours. Participation in team meetings, project discussions, and company events remains an important expectation.
+Some roles within the company may be designated as fully remote positions. Employees assigned to these roles must sign a Remote Work Agreement that outlines expectations regarding communication, equipment usage, and data security.
+
+
+Internal Communication and Collaboration Systems
+
+Effective collaboration requires reliable communication tools. PanTech Solutions maintains several internal platforms that employees use daily for coordination, documentation, and support requests.
+PanChat is the company’s internal messaging platform used for team communication, project discussions, and company-wide announcements. Teams typically maintain dedicated PanChat channels for each project so that discussions remain organized and searchable.
+PanDocs is the internal documentation platform used for maintaining technical architecture guides, onboarding materials, project documentation, and company policies. Employees are encouraged to contribute to PanDocs whenever they create new internal tools or develop technical solutions that may benefit other teams.
+PanTrack, mentioned earlier, serves as the employee management system that tracks attendance, leave balances, performance reviews, and internal approvals.
+The IT department operates a support portal called PanDesk where employees can submit requests related to technical issues, access permissions, and equipment maintenance.
+
+
+Equipment and Asset Responsibility
+
+When employees join PanTech Solutions, they are provided with the necessary equipment required to perform their work. This typically includes a company-issued laptop, secure authentication devices, and access credentials for internal systems.y
+Company equipment must be used responsibly and primarily for work-related purposes. Employees should not install unauthorized software or attempt to bypass security restrictions placed on company devices.y
+In the event that equipment is lost, stolen, or damaged, employees must report the incident to the IT department within twelve hours so that appropriate security actions can be taken.y
+Upon resignation or termination of employment, all company equipment must be returned before the employee’s final settlement can be processed.
+
+
+Information Security and Data Protection
+
+Because PanTech Solutions handles sensitive customer data and proprietary technologies, the company enforces strict information security policies. Employees are responsible for protecting company data and preventing unauthorized access to internal systems.y
+Employees must never share login credentials with other individuals, including colleagues. Multi-factor authentication is mandatory for accessing most internal systems.y
+Confidential documents should only be stored within approved company platforms and should never be transferred to personal storage devices or personal email accounts.y
+The company conducts periodic security awareness training sessions to ensure that employees remain aware of emerging cybersecurity threats such as phishing attacks, social engineering attempts, and malware distribution.
+
+
+Internal Knowledge Systems and AI Assistants
+
+PanTech Solutions maintains an internal knowledge platform powered by artificial intelligence known as PanAI. This system is designed to help employees quickly retrieve company information, technical documentation, and operational guidelines.y
+PanAI operates using a retrieval-augmented generation architecture that combines vector databases, document embeddings, and language models to provide accurate answers based on internal documentation.y
+The system continuously indexes documents stored in PanDocs and other approved repositories. When employees ask questions through the PanAI interface, the system retrieves relevant documents and generates answers grounded in those sources.y
+Employees are encouraged to keep documentation up to date so that PanAI remains an accurate and reliable knowledge assistant.
+
+
+Travel and Expense Policies
+
+Employees may occasionally need to travel for business purposes such as client meetings, conferences, or internal company events. The company provides reimbursement for approved travel expenses.y
+Domestic travel expenses typically include economy-class airfare, train tickets in AC class, and hotel accommodation within the company’s defined budget range. Employees must obtain travel approval from their reporting manager before making reservations.y
+For international travel, additional approval from both the department head and the finance department is required. International travel must be carefully planned to ensure compliance with budget and visa requirements.y
+Expense reimbursement requests must be submitted through the PanFinance portal along with valid receipts and documentation. The finance team generally processes reimbursements within ten business days after submission.
+
+
+Performance Reviews and Career Growth
+
+PanTech Solutions conducts performance reviews twice each year. These reviews are designed to provide employees with constructive feedback regarding their contributions, strengths, and areas for improvement.y
+Performance evaluations consider multiple factors including technical skills, teamwork, innovation, problem-solving ability, and the impact of the employee’s work on company objectives.y
+Managers provide performance ratings based on a standardized evaluation scale. Employees who consistently demonstrate exceptional performance may receive bonuses, salary adjustments, or promotion opportunities.y
+Promotion cycles typically occur once per year, usually during the month of April. Decisions regarding promotions depend on individual performance as well as organizational needs.
+
+
+Learning and Professional Development
+Continuous learning is strongly encouraged at PanTech Solutions. The company provides employees with an annual learning budget that may be used for online courses, technical certifications, industry conferences, or professional books.
+Employees who wish to use this budget must submit a learning request describing how the course or certification will benefit their professional growth and contribute to the company’s capabilities.
+Managers typically review and approve such requests provided that the learning opportunity aligns with the employee’s career development goals.
+
+
+Employee Conduct and Workplace Culture
+
+PanTech Solutions strives to maintain a respectful and inclusive workplace where employees feel safe and valued. The company enforces a strict code of conduct that prohibits harassment, discrimination, and any form of workplace bullying.
+Employees are expected to interact with colleagues professionally and respectfully at all times. Disagreements may occur in professional environments, but they must be handled through constructive dialogue rather than personal attacks.
+The company maintains confidential channels through which employees may report workplace concerns or ethical violations.
+
+
+Resignation and Exit Procedures
+Employees who wish to leave the company must submit a formal resignation letter and provide a notice period of thirty days. During this period, employees are expected to complete knowledge transfer activities so that projects continue smoothly after their departure.
+Before the final working day, employees must return all company assets, complete exit documentation, and participate in an exit interview conducted by the Human Resources team.
+Final payroll settlements are generally processed within forty-five days after the employee’s departure.
+
+
+Policy Updates
+
+This handbook represents the current operational policies of PanTech Solutions. However, as the company grows and regulatory requirements evolve, some policies may be revised.
+Employees will be notified of policy updates through official announcements sent via PanChat, company email, and updates published in the PanDocs documentation system.
+Employees are encouraged to stay informed about these updates and review changes whenever new versions of the handbook are released.
