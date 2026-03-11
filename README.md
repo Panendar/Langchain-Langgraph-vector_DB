@@ -64,17 +64,17 @@ PPLX_API_KEY=your_perplexity_api_key_here
 
 ## What each script does
 
-| Script | Purpose |
-| --- | --- |
-| `Document_chatBot.py` | End-to-end RAG over `company_policy.txt` |
-| `multi_step_Q&A_workflow.py` | LangGraph pipeline: analyze -> retrieve -> generate |
-| `lang_with_history.py` | Conversational chain with per-session memory |
-| `langgraph_view.py` | LangGraph typed state and flow demos |
-| `get_or_create_collection.py` | Create/upsert/query Chroma collections |
-| `task.py` | Similarity search examples with scores |
-| `main.py` | Minimal Chroma query example |
-| `using_LLM.py` | Ollama translation chain + batch invoke |
-| `langchain-setup.py` | Perplexity-powered LangChain translation chain |
+| Script                        | Purpose                                             |
+| ----------------------------- | --------------------------------------------------- |
+| `Document_chatBot.py`         | End-to-end RAG over `company_policy.txt`            |
+| `multi_step_Q&A_workflow.py`  | LangGraph pipeline: analyze -> retrieve -> generate |
+| `lang_with_history.py`        | Conversational chain with per-session memory        |
+| `langgraph_view.py`           | LangGraph typed state and flow demos                |
+| `get_or_create_collection.py` | Create/upsert/query Chroma collections              |
+| `task.py`                     | Similarity search examples with scores              |
+| `main.py`                     | Minimal Chroma query example                        |
+| `using_LLM.py`                | Ollama translation chain + batch invoke             |
+| `langchain-setup.py`          | Perplexity-powered LangChain translation chain      |
 
 ## Typical usage
 
@@ -148,7 +148,7 @@ GitHub: https://github.com/Panendar
 
 MIT License
 
-Copyright (c) 2026 Venkata
+Copyright (c) 2026 Panendar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -167,6 +167,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-#
-
