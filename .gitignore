@@ -1,3 +1,4 @@
 data/*
 .venv/*
 requirements.txt
+.env
